@@ -1,0 +1,2 @@
+Words translated from English to English
+dog=dog

@@ -1,0 +1,6 @@
+Words translated from English to Japanese
+dog=inu
+fish=uo
+blue=aoi
+yellow=koushoku
+white=howaido

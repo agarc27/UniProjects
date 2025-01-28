@@ -1,0 +1,5 @@
+Words translated from English to Portuguese
+dog=cão
+cat=gato
+fish=peixe
+skin=pele
