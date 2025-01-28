@@ -1,6 +1,6 @@
 """ Andres Garcia Gomez
     ITP-449
-    Assignment #4
+    Assignment #3
     We are producing visualizations from the data within
     the Palmer Penguins dataset. The first visualization 
     is a scatterplot matrix of all numeric attributes. The
