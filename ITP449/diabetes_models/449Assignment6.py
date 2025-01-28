@@ -1,6 +1,6 @@
 """ Andres Garcia Gomez
     ITP-449
-    Assignment #9
+    Assignment #6
     We are going to train and test a Logistic Refression model based
     on the diabetes data. From this, we will produce a Confusion Matrix
     to visualize the relationship between all attributes.
