@@ -1,6 +1,6 @@
 """ Andres Garcia Gomez
     ITP-449
-    Assignment #8
+    Assignment #5
     A program which aims to create a line of best fit for 
     quantitative diabetes progression.
 """
