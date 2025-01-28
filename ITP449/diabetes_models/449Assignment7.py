@@ -1,6 +1,6 @@
 """ Andres Garcia Gomez
     ITP-449
-    Assignment #11
+    Assignment #7
     With this assignment, we want to train and optimize a KNN
     Classifcation model using diabetes data, while also producing
     visualizations of the model.
