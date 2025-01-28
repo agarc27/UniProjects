@@ -7,6 +7,9 @@
     second visualization is a scatterplot comparing bill 
     length and flipper length.
 """
+
+__name__ == '__Assignment__'
+
 # Packages requires for the assignment.
 import pandas as pd
 import matplotlib.pyplot as plt
